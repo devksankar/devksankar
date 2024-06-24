@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devksankar
-- 👀 I’m interested in programming in python...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in programming in p5.js
+- 🌱 I’m currently learning p5.js
 
 <!---
 devksankar/devksankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
